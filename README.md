@@ -6,4 +6,4 @@ Run this code on [![Sololearn](https://img.shields.io/twitter/url?color=blue&lab
 
 1) Registration Form - https://www.sololearn.com/compiler-playground/WydIt8K5kimS
 
-2) Login Form - https://www.sololearn.com/compiler-playground/Wy41SbFEb3We
+2) Signin Page - https://www.sololearn.com/compiler-playground/Wy41SbFEb3We
