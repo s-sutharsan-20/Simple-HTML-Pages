@@ -9,3 +9,5 @@ Run this code on [![Sololearn](https://img.shields.io/twitter/url?color=blue&lab
 2) Signin Page - https://www.sololearn.com/compiler-playground/Wy41SbFEb3We
 
 3) Login Page - https://www.sololearn.com/compiler-playground/WO9XtbTrF74L
+
+4) Bordered login page - https://www.sololearn.com/compiler-playground/WTgc3NiNX1n7
