@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+}
+p{
+    color: brown;
+}
+form{
+    border-style: solid;
+    border-color: rgba(238, 35, 35, 0.771);
+    border-radius: 0%;
+    border-width: 10px 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
