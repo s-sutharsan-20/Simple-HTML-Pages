@@ -1,0 +1,12 @@
+html{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    
+}
+div{
+    background-color: darkslategrey;
+    size: 100px;
+}
